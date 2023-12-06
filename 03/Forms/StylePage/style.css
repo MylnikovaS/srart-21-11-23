@@ -1,0 +1,55 @@
+/*paragraf style*/
+/* p{
+    background-color: blueviolet;
+    color: azure;
+} */
+
+p{
+    color: rgb(0, 0, 0);
+}
+#test{
+    color: rgb(246, 1, 1);
+}
+.style-tex{
+    color: darkblue;
+}
+p.bg-dark{
+background-color: gray;
+}
+.style-tex.bg-dark{
+    font-size: 30px;
+}
+.tex-bg{
+    background-color: blueviolet;
+}
+.bg-dark{
+    background-color: black;
+}
+body p.bg-dark{
+    background-color: darkorange;
+}
+/* Вибирає всі єлементи на стор*/
+*{
+    text-decoration: underline;
+}
+ul{
+    background-color: rgb(36, 65, 65);
+}
+ul li{
+    color: white;
+}
+ul li:first-child{
+    background-color: aqua 
+}
+ol li:last-child{
+    background-color: rgb(219, 64, 64)
+}
+ul li:nth-child(2){
+    background-color: rgb(189, 189, 238);
+}
+/*.First{
+    background-color: aqua;
+}
+.Last{
+    background-color: rgb(139, 10, 10);
+}*/
