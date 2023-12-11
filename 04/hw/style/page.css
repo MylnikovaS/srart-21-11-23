@@ -6,7 +6,7 @@ body{
     /* font-family: ; */
 }
 header{
-    background-color: rgb(218, 218, 200);
+    background-color: rgb(255, 255, 255);
     padding: 65px 0 60px 0;
 }
 .header-container{
@@ -16,7 +16,7 @@ header{
 .logo,
 .social{
     display: inline-block;
-    background-color: gray;
+    /* background-color: gray; */
     width: 390px;
 }
 .social{

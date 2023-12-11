@@ -1,0 +1,46 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    padding: 120px 96px;
+    margin: 0 auto;
+    color: #000;
+    
+}
+.title{
+    font-family: Raleway;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 96px; /* 120% */
+    letter-spacing: -0.8px;
+
+}
+.title2{
+    font-family: Raleway;
+font-size: 56px;
+font-style: normal;
+font-weight: 600;
+line-height: 64px; 
+letter-spacing: -0.56px;
+
+}
+p{
+    font-family: Raleway;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: 40px; 
+letter-spacing: -0.32px;
+}
+.container{
+    font-family: Raleway;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: 40px; 
+letter-spacing: -0.32px;
+width: 1725px;
+
+
+
+}
+
