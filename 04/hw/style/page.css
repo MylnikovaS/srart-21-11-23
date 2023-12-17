@@ -16,20 +16,25 @@ header{
     width: 937px;
     margin: 0 auto;
     padding: 65px 0 60px 0;
+    
 }
 .logo{
     display: inline-block;
+    text-align: left;
+    width: 465px;
     
 }
-a{
-    width: 466px;
-}
+
 .social{
     display: inline-block;
-    width: 466px;
-    text-align: right;
-    margin-left: 21px;      
+    width: 468px;
+    text-align: right;        
 }
+.facedook-header, .twiter-header{
+    display: inline-block;
+    margin-left:  20px;
+}
+
 .main-section{
     background-color: #FAC960;
     padding: 110px 0;
@@ -152,25 +157,30 @@ p{
     
 }
 .footer-container{
-    width: 800px;
+    width: 937px;
     margin: 0 auto;
     padding: 82px 0 82px 0;
-    text-align: center;
+    
 }
 .logo-footer{
-    display: inline-block;
-    width: 800px;
+    display: block;
+    text-align: center;
+   
     
 }
 .social-footer{
+    display: block;
+    text-align: center;
+    padding: 17px 0;
+   
+ }  
+ .twitter, .facebook, .email{
     display: inline-block;
-    width: 800px;
-    
-    margin: 24px;
-}
-a{
-    margin: 24px;
-}
+   margin-inline: 10px;
+ }
+
+
+
 
 
 
